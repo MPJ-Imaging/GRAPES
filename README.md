@@ -31,8 +31,8 @@ Click the badges below to launch the example notebooks on **Binder**.
 
 | Example | Description | Binder Link |
 |----------|--------------|--------------|
-| **Example 1** | Nano-CT example | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MPJ-Imaging/GRAPES/HEAD?labpath=examples/example_1.ipynb) |
-| **Example 2** | Micro-CT example | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MPJ-Imaging/GRAPES/HEAD?labpath=examples/example_2.ipynb) |
+| **Example 1** | Micro-CT example | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MPJ-Imaging/GRAPES/HEAD?labpath=examples/example_1.ipynb) |
+| **Example 2** | Nano-CT example | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MPJ-Imaging/GRAPES/HEAD?labpath=examples/example_2.ipynb) |
 
 > 💡 **Tip:** Binder can take a minute or two to start — once loaded, the notebooks will open in JupyterLab with all dependencies preinstalled.
 
