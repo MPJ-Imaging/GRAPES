@@ -4,7 +4,7 @@ GRAPES is a Python toolkit for quantitative analysis of grey-level intensities i
 It was originally developed for studying core–shell behavior, internal cracking, and void formation within individual particles extracted from tomographic datasets.
 
 ### Reference / Methodology:
-For detailed example use cases and citation, see the paper:
+For detailed example use cases, see the papers:
 
 👉 [Demonstrating Faster Multi-Label Grey-Level Analysis for Crack Detection in Ex Situ and Operando Micro-CT Images of NMC Electrode](https://onlinelibrary.wiley.com/doi/full/10.1002/smtd.202500082)
 
