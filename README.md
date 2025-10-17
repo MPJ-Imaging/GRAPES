@@ -1,7 +1,28 @@
-# GRAPES
+# 🫐 GRAPES — GReylevel Analysis of ParticlES
 
-GRAPES (**GR**eylevel **A**nalysis of **P**articl**ES**) is a python toolkit originally developed for the radial analysis of grey level intensities in x-ray tomograms of particles. This allows for quantitative analysis of core-shell behaviour and internal cracking and void formation. For an example use cases and methodology see the paper (preprint) available at https://doi.org/10.26434/chemrxiv-2024-msbc1
+GRAPES is a Python toolkit for quantitative analysis of grey-level intensities in X-ray tomograms of particles.
+It was originally developed for studying core–shell behavior, internal cracking, and void formation within individual particles extracted from tomographic datasets.
 
-The GRAPES.py file contains functions for calculating a pandas table of particles and particle properties, as well as functions for analyzing particle data sets, and utility functions (plotting, I/O etc.). Central to the toolkit is the inclusion of radial layer properties, for example mean grey-level intensity in radial layers can be calculated rapidly across a large dataset of particles using the GREAT2 method.
+# 📄 Reference / Methodology:
+For detailed methods and example use cases, see the preprint:
+👉 https://doi.org/10.26434/chemrxiv-2024-msbc1
+
+# 🚀 Features
+
+- Automated particle property extraction into a Pandas DataFrame
+
+- Radial analysis of grey-level intensities using the GREAT2 method
+
+- Batch processing of large particle datasets
+
+- Utility functions for plotting, file I/O, and visualization
+
+- Designed for high-throughput analysis of tomographic data
+
+🧠 Core Concept
+
+At the heart of GRAPES is the radial layer analysis:
+Each particle is divided into concentric layers, and properties such as mean grey-level intensity, standard deviation, and radial gradients are computed.
+This enables quantitative comparison of features like shell thickness, internal cracks, and material heterogeneity across thousands of particles.
 
 
