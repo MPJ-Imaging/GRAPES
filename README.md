@@ -5,6 +5,7 @@ It was originally developed for studying core–shell behavior, internal crackin
 
 ### Reference / Methodology:
 For detailed example use cases and citation, see the paper:
+
 👉 [Demonstrating Faster Multi-Label Grey-Level Analysis for Crack Detection in Ex Situ and Operando Micro-CT Images of NMC Electrode](https://onlinelibrary.wiley.com/doi/full/10.1002/smtd.202500082)
 
 ### Features
