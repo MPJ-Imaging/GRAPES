@@ -24,6 +24,19 @@ At the heart of GRAPES is the radial layer analysis:
 Each particle is divided into concentric layers, and properties such as mean grey-level intensity, standard deviation, and radial gradients are computed.
 This enables quantitative comparison of features like shell thickness, internal cracks, and material heterogeneity across thousands of particles.
 
+## Cloud Notebooks
+
+You can explore GRAPES directly in your browser — no installation required!  
+Click the badges below to launch the example notebooks on **Binder**.
+
+| Example | Description | Binder Link |
+|----------|--------------|--------------|
+| **Example 1** | Basic workflow: particle extraction and radial analysis | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MPJ-Imaging/GRAPES/HEAD?labpath=examples/example_1.ipynb) |
+| **Example 2** | Advanced dataset analysis and visualization | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MPJ-Imaging/GRAPES/HEAD?labpath=examples/example_2.ipynb) |
+
+> 💡 **Tip:** Binder can take a minute or two to start — once loaded, the notebooks will open in JupyterLab with all dependencies preinstalled.
+
+
 ### Repository Structure
 ```bash
 GRAPES/
