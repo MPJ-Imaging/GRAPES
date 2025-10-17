@@ -42,7 +42,7 @@ Click the badges below to launch the example notebooks on **Binder**.
 GRAPES/
 │
 ├── GRAPES.py          # Core analysis functions and utilities
-├── example_data/      # (Optional) Example particle datasets
+├── examples_data/      # (Optional) Example particle datasets
 ├── examples/          # Example scripts and workflows
 ├── README.md          # Project overview (this file)
 └── requirements.txt   # Python dependencies
