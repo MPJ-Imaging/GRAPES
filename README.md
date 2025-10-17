@@ -8,6 +8,8 @@ For detailed example use cases, see the papers:
 
 👉 [Demonstrating Faster Multi-Label Grey-Level Analysis for Crack Detection in Ex Situ and Operando Micro-CT Images of NMC Electrode](https://onlinelibrary.wiley.com/doi/full/10.1002/smtd.202500082)
 
+👉 [Non-linear cracking response to voltage revealed by operando X-ray tomography in polycrystalline NMC811]([https://onlinelibrary.wiley.com/doi/full/10.1002/smtd.202500082](https://pubs.rsc.org/en/content/articlelanding/2025/eb/d5eb00008d))
+
 ## Features
 - Automated particle property extraction into a Pandas DataFrame
 
